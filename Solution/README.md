@@ -2,6 +2,10 @@
 
 ## Let us Stand Alone
 
+YouTube Video: [https://youtu.be/ulOD1qUhGZE](https://youtu.be/5T0WvX89FM4)
+
+BlazorPuzzle Home Page: [https://blazorpuzzle.com](https://blazorpuzzle.com)
+
 #### The Challenge:
 
 How do you create a new .NET 8 WebAssembly Standalone project using Visual Studio?
